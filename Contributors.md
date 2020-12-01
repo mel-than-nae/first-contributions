@@ -309,6 +309,7 @@
 - [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan](https://github.com/TheJackalTR)
+- [Melistas Thanos](https://github.com/mel-than-nae)
 - [rheagezelle](https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
 - [Kianoosh Sanatkar](https://github.com/kianooshsanatkar)
